@@ -65,16 +65,9 @@ Renders lists of tasks. FlatList is used for a simple list, while SectionList is
 Displays icons and images within the app.
 
 ## Categories
-
-The app includes at least eight categories:
-- Exercise
-- Study
-- Code
-- Cook
-- Read
-- Travel
-- Work
-- Relax
+- Software Engineer
+- Data Scientist
+- Computer Engineer
 
 ## Tasks
 
